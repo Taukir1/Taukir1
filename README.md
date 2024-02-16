@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Taukir
 #### I am an HTML, CSS, JAVASCRIPT, and WordPress learner.
-Hey there! I'm Taukir an enthusiastic learner diving into HTML, CSS, JavaScript, and WordPress. Passionate about crafting captivating web experiences, I'm on a journey to master the art of web development one line of code at a time. Join me as I explore the endless possibilities of the digital world!
+I'm Taukir an enthusiastic learner diving into HTML, CSS, JavaScript, and WordPress. Passionate about crafting captivating web experiences, I'm on a journey to master the art of web development one line of code at a time. Join me as I explore the endless possibilities of the digital world!
 
-Skills: HTML / CSS / JS / WORDPRESS / ADOBE PHOTOSHOP
+Skills: HTML / CSS / JS / WordPress / ADOBE PHOTOSHOP
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning HTML, CSS, JS, WORDPRESS 
