@@ -8,5 +8,5 @@ Skills: HTML / CSS / JS / WordPress / ADOBE PHOTOSHOP
 - 🌱 I’m currently learning HTML, CSS, JS, WORDPRESS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/taukir798/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taukir798/)  
 
